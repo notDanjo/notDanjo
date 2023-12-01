@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on **open-source projects** and **web development** ventures.
 - 🤔 I’m looking for help with **advanced React concepts** and **state management**.
 - 💬 Ask me about **web design**, **programming languages**, and **student life**.
-- 📫 How to reach me: [insert your email/contact information here]
-- 😄 Pronouns: [Your preferred pronouns]
 - ⚡ Fun fact: I'm not just a coder; I'm also an avid learner and tech enthusiast!
 
 ## My Skills
