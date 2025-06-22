@@ -1,28 +1,25 @@
 <h1 align="center">Hi there 👋, I'm notDanjo</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend-Focused+Web+Developer;Graphic+%2F+UI+Designer;Exploring+Full-Stack+Possibilities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend-Focused+Web+Developer;UI+%2F+Graphic+Design+Enthusiast;Built+Real+Systems+with+PHP+%2F+MySQL;Exploring+MERN+Stack" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 BSIT Graduate (Academic Achiever)
-- 🎨 Passionate about graphic, UI/UX and web design
-- 🧠 Familiar with LAMP stack, currently refining it
-- 🌱 Looking to explore the MERN stack next
-- 🌐 Open for freelance work in design and development
+- 🖥 Passionate about web and UI design
+- 🔧 Built and deployed systems using PHP, MySQL, and XAMPP
+- 🌱 Refining LAMP stack skills and exploring the MERN stack
+- 🤝 Open to freelance web, design, and collaborative dev work
 
 ---
 
-### ⚒️ Tools & Technologies
-`HTML` `CSS` `JavaScript` `PHP` `SQL` `React` `Git`  
-`Canva` `Photoshop` `Discord Bots`
+### ⚒️ Tech Stack & Tools
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `React` `Git`  
+`XAMPP` `Canva` `Photoshop` `Google Workspace` `Discord Mod Tools`
 
 ---
 
 ### 📌 Projects
-- **PDAO Records System**  
-  Built the frontend for a government records UI using HTML/CSS and GitHub.
-
-- **Fandom Discord Design**  
-  Designed banners and managed server systems for fan community events.
+- **PDAO Records Management System**  
+  Capstone project for a government office, built using PHP, MySQL, and XAMPP; deployed online. Focused on frontend and backend collaboration with GitHub-based version control.
