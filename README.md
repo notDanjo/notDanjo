@@ -16,7 +16,7 @@
 
 ### ⚒️ Tech Stack & Tools
 `HTML` `CSS` `JavaScript` `PHP` `MySQL` `React` `Git`  
-`XAMPP` `Canva` `Photoshop` `Google Workspace` `Discord Mod Tools`
+`XAMPP` `Canva` `Photoshop`
 
 ---
 
