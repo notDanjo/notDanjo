@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm notDanjo</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend-Focused+Web+Developer;UI+%2F+Graphic+Design+Enthusiast;Built+Real+Systems+with+PHP+%2F+MySQL;Exploring+MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend-Focused+Web+Developer;UI+%2F+Graphic+Design+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
